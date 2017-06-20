@@ -1,0 +1,8 @@
+C:\Users\Arshee\Documents\Git Projects\RedisTest\bin\Debug\netcoreapp1.1\RedisTest.deps.json
+C:\Users\Arshee\Documents\Git Projects\RedisTest\bin\Debug\netcoreapp1.1\RedisTest.runtimeconfig.json
+C:\Users\Arshee\Documents\Git Projects\RedisTest\bin\Debug\netcoreapp1.1\RedisTest.runtimeconfig.dev.json
+C:\Users\Arshee\Documents\Git Projects\RedisTest\bin\Debug\netcoreapp1.1\RedisTest.dll
+C:\Users\Arshee\Documents\Git Projects\RedisTest\bin\Debug\netcoreapp1.1\RedisTest.pdb
+C:\Users\Arshee\Documents\Git Projects\RedisTest\obj\Debug\netcoreapp1.1\RedisTest.AssemblyInfo.cs
+C:\Users\Arshee\Documents\Git Projects\RedisTest\obj\Debug\netcoreapp1.1\RedisTest.dll
+C:\Users\Arshee\Documents\Git Projects\RedisTest\obj\Debug\netcoreapp1.1\RedisTest.pdb
